@@ -11,6 +11,8 @@
 - 제 핸드폰 번호. 이메일 주소는 stg1994@naver.com 입니다. 
 - +82 10-6235-7905 
 
+일단 이 문서는 제 개인적인 학습 자료고, 일단 학원에서 학습한 것들을 매일매일 업로드합니다. 일단 제 개인적인 공부이기 때문에, 정리를 하기보다는,
+일단 누군가에게 보여주는 용도가 아닌 제 학습 자료를 저장하는 공간이기 때문에 다소 파일 제목과 정렬이 무질서한 감이 있어도 양해를 부탁드립니다.
 <!---
 stg1994s/stg1994s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
